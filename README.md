@@ -30,6 +30,6 @@
 - 1,5 миллиарда пинов сохраняется каждую неделю [^2]
 
 ### Список источников:
-[^1]: [Pinterest Demographics Q2'2023](https://business.pinterest.com/audience/)
+[^1]: [Pinterest Demographics Q4'2023](https://business.pinterest.com/audience/)
 [^2]: [Pintererst newsroom](https://newsroom.pinterest.com/company/)
 
