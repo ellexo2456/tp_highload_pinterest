@@ -27,7 +27,9 @@
 
 ### Целевая аудитория
 - 498 млн активных пользователей по всему миру [^1]
+- 1,5 миллиарда пинов сохраняется каждую неделю [^2]
 
 ### Список источников:
-[^1]: [Демографические данные Pintererst за Q2'2023](https://business.pinterest.com/ru/audience/)
+[^1]: [Pinterest Demographics Q2'2023](https://business.pinterest.com/audience/)
+[^2]: [Pintererst newsroom](https://newsroom.pinterest.com/company/)
 
