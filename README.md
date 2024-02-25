@@ -26,10 +26,6 @@
 - Составление ленты и тематических подборок на основе действий пользователя
 
 ### Целевая аудитория
-- 498 млн активных пользователей по всему миру [^1]
-- 1,5 миллиарда пинов сохраняется каждую неделю [^2]
-
-### Список источников:
-[^1]: [Pinterest Demographics Q4'2023](https://business.pinterest.com/audience/)
-[^2]: [Pintererst newsroom](https://newsroom.pinterest.com/company/)
+- 498 млн активных пользователей по всему миру [[1]](https://business.pinterest.com/audience/)
+- 1,5 миллиарда пинов сохраняется каждую неделю [[2]](https://newsroom.pinterest.com/company/)
 
