@@ -165,6 +165,6 @@
     2 Мб * 134,25 * 10^3 ≈ 0,00026 ПБ
     ```
      
-- Допустим, что пиковое дневное потребление в 2 раза больше среднего [[10]](https://buffer.com/resources/pinterest-scheduling-frequency-timing/ )https://buffer.com/resources/pinterest-scheduling-frequency-timing/. Получим 160,392 Пб/день и 5,966 Пб/день => 15,21 Тбит/сек и 0,57 Тбит/сек
+- Допустим, что пиковое дневное потребление в 2 раза больше среднего [[10]](https://buffer.com/resources/pinterest-scheduling-frequency-timing/). Получим 160,392 Пб/день и 5,966 Пб/день => 15,21 Тбит/сек и 0,57 Тбит/сек
 
 
