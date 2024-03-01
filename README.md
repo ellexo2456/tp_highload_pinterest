@@ -39,8 +39,13 @@
 
 ### Продуктовые метрики
 
-- MAU - 498 млн пользователей [[3]](https://business.pinterest.com/audience/)
-- DAU - 80,5 млн пользователей [[4]](https://www.businessdit.com/social-media-statistics/)
+|Метрика|Значение|Источник|
+| ------------- | --- |-------------|
+|MAU (чел.)|498 млн|[[3]](https://business.pinterest.com/audience/)|
+|DAU (чел.)|80,5 млн|[[4]](https://www.businessdit.com/social-media-statistics/)|
+|Прирост аудитории за 2023 год чел/год|49 млн|[[5]](https://www.statista.com/statistics/463353/pinterest-global-mau/)|
+|MAU (чел.)|498 млн|[[3]](https://business.pinterest.com/audience/)|
+
 
 #### Средний размер харанилища пользователя по типам:
 
