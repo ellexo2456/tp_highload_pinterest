@@ -209,7 +209,7 @@
 
 ## Часть 3. Глобальная балансировка нагрузки <a name="3"></a>
 ### Расположение ДЦ
-Основная аудитория pinterest находится в Северной и Южной Америке и Азии (по большей части в Японии)[[30]](https://www.demandsage.com/pinterest-statistics/)[[31]](https://www.statista.com/statistics/328106/pinterest-penetration-markets/).  
+Основная аудитория pinterest находится в Северной и Южной Америке, Европе и Азии (по большей части в Японии)[[30]](https://www.demandsage.com/pinterest-statistics/)[[31]](https://www.statista.com/statistics/328106/pinterest-penetration-markets/).  
 Расположим ДЦ в соответствии с географичиским положением.  
 
 Тогда:  
